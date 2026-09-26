@@ -1,0 +1,46 @@
+[
+    {
+        "id": "ch_6ab3a924d895a",
+        "section_id": "sec_6ab3a9d511328",
+        "name": "روتانا",
+        "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/cinemamasr_480p/chunks.m3u8",
+        "emoji": "🎬",
+        "desc": "بث مباشر  •  أفلام  •  HLS",
+        "referer": "https://rotana.net/",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZKsa2PmWnDIVcp9OKi67Ye27t4w69D8VJ4COEIiJdA&s=10",
+        "created": "2026-09-23 06:25:40"
+    },
+    {
+        "id": "ch_6ab3ae6ce4d99",
+        "section_id": "sec_6ab3a9d511328",
+        "name": "MBC مصر",
+        "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+        "emoji": "📺",
+        "desc": "بث مباشر  •  ترفيه  •  HLS",
+        "referer": "https://play.tlfaz.com/",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg4U46DCx_NRkCvLhAbUcECiUwiT_zYtM6zT5QM1YxoQ&s=10",
+        "created": "2026-09-23 06:48:12"
+    },
+    {
+        "id": "ch_6ab652f025f76",
+        "section_id": "sec_6ab3a9d511328",
+        "name": "MBC 4",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/288p350kbps/video.m3u8",
+        "emoji": "📺",
+        "desc": "بث مباشر  •  ترفيه  •  HLS",
+        "referer": "",
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiB2aWV3Qm94PSIwIDAgMzAwIDMwMCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRkYwMDAwIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOEIwMDAwIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjMwMCIgaGVpZ2h0PSIzMDAiIHJ4PSIzMCIgZmlsbD0idXJsKCNnKSIvPjx0ZXh0IHg9IjE1MCIgeT0iMjAwIiBmb250LXNpemU9IjE4MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiPvCfk7o8L3RleHQ+PC9zdmc+",
+        "created": "2026-09-25 06:54:40"
+    },
+    {
+        "name": "Rotana Drama",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Rotana_Drama/DASH/Rotana_Drama.mpd",
+        "image": "https://ui-avatars.com/api/?name=Rotana+Drama&background=FF0000&color=fff&size=200&bold=true&font-size=0.5",
+        "emoji": "📽️",
+        "desc": "بث مباشر",
+        "section_id": "sec_6ab3a9d511328",
+        "type": "dash",
+        "qualities": [],
+        "added": 1790337080
+    }
+]
