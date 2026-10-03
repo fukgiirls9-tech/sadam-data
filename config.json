@@ -41,27 +41,9 @@
       "name": "قنوات مصرية",
       "emoji": "🇪🇬",
       "channels": [
-        {
-          "name": "MBC 1 Egypt",
-          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
-          "image": "https://i.imgur.com/CiA3plN.png",
-          "emoji": "📺",
-          "desc": "1080p • بث مباشر"
-        },
-        {
-          "name": "MBC Masr",
-          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
-          "image": "https://i.imgur.com/o2elx0u.png",
-          "emoji": "📺",
-          "desc": "1080p • بث مباشر"
-        },
-        {
-          "name": "Rotana Cinema Egypt",
-          "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
-          "image": "https://i.imgur.com/dGlKoLW.png",
-          "emoji": "🎬",
-          "desc": "1080p • بث مباشر"
-        }
+        {"name": "MBC 1 Egypt", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8", "image": "https://i.imgur.com/CiA3plN.png", "emoji": "📺", "desc": "1080p • بث مباشر"},
+        {"name": "MBC Masr", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8", "image": "https://i.imgur.com/o2elx0u.png", "emoji": "📺", "desc": "1080p • بث مباشر"},
+        {"name": "Rotana Cinema Egypt", "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8", "image": "https://i.imgur.com/dGlKoLW.png", "emoji": "🎬", "desc": "1080p • بث مباشر"}
       ]
     },
     {
@@ -69,13 +51,7 @@
       "name": "قنوات تجريبية",
       "emoji": "🧪",
       "channels": [
-        {
-          "name": "قناة تجريبية",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "image": "",
-          "emoji": "📺",
-          "desc": "بث مباشر"
-        }
+        {"name": "قناة تجريبية", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "image": "", "emoji": "📺", "desc": "بث مباشر"}
       ]
     }
   ]
