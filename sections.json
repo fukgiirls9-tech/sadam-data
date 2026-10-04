@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "id": "masr",
+      "name": "قنوات مصرية",
+      "emoji": "🇪🇬",
+      "order": 1
+    },
+    {
+      "id": "drama",
+      "name": "دراما مصرية",
+      "emoji": "🎬",
+      "order": 2
+    },
+    {
+      "id": "sports",
+      "name": "رياضة",
+      "emoji": "⚽",
+      "order": 3
+    },
+    {
+      "id": "test",
+      "name": "قنوات تجريبية",
+      "emoji": "🧪",
+      "order": 4
+    }
+  ]
+}
